@@ -1,0 +1,7 @@
+### 使用注意事项
+
+1. 音乐播放功能的使用
+	1. 运行LAVFilters-0.65.exe，即安装路径下的解码软件。
+
+1. chat.h与widget.h中的三个const String，即msc_send, msc_rcv, msc_bg 可以自定义，但必须为绝对路径。
+	1. 六个路径格式为：[*]\\chatMoreDage\\chatMoreFinal\\srcmusic\\*.mp3

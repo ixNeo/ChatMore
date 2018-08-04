@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/italic.png</file>
+        <file>images/save.png</file>
+        <file>images/send.png</file>
+        <file>images/under.png</file>
+        <file>images/welcome.png</file>
+        <file>images/btnnormal.png</file>
+        <file>images/btnressed.png</file>
+        <file>images/bj.jpg</file>
+        <file>images/server.png</file>
+        <file>images/widgetbg.png</file>
+        <file>images/voice.png</file>
+        <file>images/camera.png</file>
+        <file>images/scissors_23.434554973822px_1200891_easyicon.net.png</file>
+        <file>images/chatmore3.png</file>
+        <file>images/blacket.png</file>
+        <file>images/snowFlow.png</file>
+        <file>images/wool.jpg</file>
+        <file>images/hei.jpg</file>
+        <file>images/mo.png</file>
+        <file>images/qianhui.png</file>
+        <file>images/bai.jpg</file>
+        <file>images/baihui.jpg</file>
+        <file>images/qianhui.jpg</file>
+        <file>images/nasa2.png</file>
+        <file>images/but.png</file>
+        <file>images/qianlan.png</file>
+        <file>images/blue.png</file>
+        <file>images/welcome2.png</file>
+        <file>srcmusic/cocoon.mp3</file>
+        <file>srcmusic/cuan.mp3</file>
+        <file>srcmusic/shou.mp3</file>
+        <file>images/denglu1.png</file>
+        <file>images/denglu2.png</file>
+        <file>images/tuichu1.png</file>
+        <file>images/tuichu2.png</file>
+        <file>images/lip.ico</file>
+    </qresource>
+</RCC>
